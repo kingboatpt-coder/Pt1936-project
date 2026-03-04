@@ -1,0 +1,6 @@
+streamlit
+pandas
+gspread
+oauth2client
+openpyxl
+xlrd>=2.0.1
